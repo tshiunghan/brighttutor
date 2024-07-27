@@ -1,6 +1,9 @@
-I provide the following services: 
+Bright Tutor is a sole propietorship based in Kuala Lumpur, Malaysia, that provides services related to editing, research and English-language teaching. 
 
-- Editing for structure and clarity
+For example: 
+
+- Editing for structure
+- Editing for clarity
 - Proofreading
 - Independent research 
 - Coaching on research design 
